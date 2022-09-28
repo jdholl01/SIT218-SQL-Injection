@@ -1,0 +1,1 @@
+<% response.sendRedirect("question-answer/showForm"); %>
